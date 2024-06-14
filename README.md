@@ -17,8 +17,6 @@
   
  <img src='https://i.pinimg.com/originals/10/d5/1a/10d51aa37731b05a5d085e15186e211c.gif'/>
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark&hide_border=true)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=USERNAME&theme=react-dark&hide_border=true&area=true)
 
 
 ---
