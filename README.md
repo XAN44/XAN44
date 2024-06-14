@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=XAN44&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='[https://memer-new.vercel.app/](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952pncr43ddj4u8ex8dfl6390ttexg2t976b0xog1ou&ep=v1_gifs_search&rid=giphy.gif&ct=g)' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=XAN44&icon=3&color=12)](https://visitcount.itsvg.in)
