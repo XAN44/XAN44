@@ -12,16 +12,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XAN44&theme=slateorange&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XAN44&theme=slateorange&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=XAN44&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
+ 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=XAN44&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
- <img src=' https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952pncr43ddj4u8ex8dfl6390ttexg2t976b0xog1ou&ep=v1_gifs_search&rid=giphy.gif&ct=g' style="height: 400px;"/>
+ <img src=' https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952pncr43ddj4u8ex8dfl6390ttexg2t976b0xog1ou&ep=v1_gifs_search&rid=giphy.gif&ct=g'/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=XAN44&icon=3&color=12)](https://visitcount.itsvg.in)
