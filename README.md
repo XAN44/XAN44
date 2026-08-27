@@ -1,14 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Natthaphan Latea
+# 👋 Hi, I'm Natthaphan Lateh
 
 ### Full-Stack Web Developer · First Class Honors 🎓
-
-*Turning business requirements into real, working systems — with clean code and real impact.*
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089303584163)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:nattapanlateh26@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/XAN44)
 
 </div>
 
@@ -28,12 +22,13 @@
 
 ## 🌟 Featured Projects
 
-> แก้ลิงก์ `#` ด้านล่างให้เป็น URL repo/demo จริงของโปรเจกต์ส่วนตัว (ไม่มี NDA)
+### 🏘️ Community Platform *(Graduation Project)*
+เว็บไซต์ชุมชนออนไลน์ครบวงจร รวม Blog · Event Creation · Real-time Chat · Social Interactions (Like/Follow) · Google OAuth ไว้ในที่เดียว
+**Tech:** Next.js 14 · TypeScript · Prisma · Socket.io + Pusher · NextAuth · Zustand
+[🔗 Repo](https://github.com/XAN44/social-media-platform)
+<!-- 🎬 ใส่ลิงก์ demo ตรงนี้ถ้ามี: · [Demo](#) -->
 
-### 🌐 Social Media & Event Platform *(Graduation Project)*
-Full-scale Web App: Blogging · Event Creation · Real-time Chat · Social Interactions · Google OAuth
-**Tech:** Next.js · Prisma · Socket.io · Zustand
-[🔗 Repo](#) · [🎬 Demo](#)
+<!-- 📸 แนะนำแนบ screenshot/GIF ของโปรเจกต์นี้ตรงนี้ จะช่วยเพิ่มความน่าสนใจให้คนที่เข้ามาดูโปรไฟล์ -->
 
 ---
 
