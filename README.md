@@ -28,32 +28,23 @@
 
 ## 🌟 Featured Projects
 
-> แก้ลิงก์ `#` ด้านล่างให้เป็น URL repo/demo จริงของแต่ละโปรเจกต์
-
-### 🍽️ Real-time POS System
-Smart Calling System + Real-time Order Tracking ด้วย Socket.io พร้อม Admin Dashboard ครบวงจร
-**Tech:** Next.js · Socket.io · Prisma · PostgreSQL
-[🔗 Repo](#) · [🎬 Demo](#)
+> แก้ลิงก์ `#` ด้านล่างให้เป็น URL repo/demo จริงของโปรเจกต์ส่วนตัว (ไม่มี NDA)
 
 ### 🌐 Social Media & Event Platform *(Graduation Project)*
 Full-scale Web App: Blogging · Event Creation · Real-time Chat · Social Interactions · Google OAuth
 **Tech:** Next.js · Prisma · Socket.io · Zustand
 [🔗 Repo](#) · [🎬 Demo](#)
 
-### 🕒 Attendance & Allowance System (RBAC)
-ระบบ Authorization 3 ระดับ (พนักงาน/นักศึกษาฝึกงาน/Supervisor) + คำนวณเบี้ยเลี้ยงอัตโนมัติพร้อมแจ้งเตือนผ่าน Nodemailer
-**Tech:** Next.js · Auth.js · Prisma
-[🔗 Repo](#)
+---
 
-### 📚 E-Learning Platform
-Instructor CMS (วิดีโอ, ควิซ) + Student Dashboard ติดตามผลการเรียน
-**Tech:** Next.js · Prisma · PostgreSQL
-[🔗 Repo](#)
+### 🔒 Client & Internship Work *(รายละเอียดเปิดเผยไม่ได้เนื่องจาก NDA)*
 
-### 🧺 Line API Integration — Laundry Service
-เชื่อมต่อ Line Messaging API สร้างระบบแจ้งเตือนสถานะบริการแบบ Real-time
-**Tech:** Node.js · Line Messaging API
-[🔗 Repo](#)
+โปรเจกต์ต่อไปนี้พัฒนาให้กับลูกค้าจริงหรือระหว่างฝึกงาน ซึ่งอยู่ภายใต้ข้อตกลงไม่เปิดเผยข้อมูล (NDA) จึงไม่มี public repo หรือ demo ให้เข้าชม แต่ยินดีอธิบายแนวทางการออกแบบและแนวคิดทางเทคนิคในการสัมภาษณ์
+
+- **Real-time POS System** — Smart Calling System + Real-time Order Tracking ด้วย Socket.io พร้อม Admin Dashboard *(Tech: Next.js · Socket.io · Prisma · PostgreSQL)*
+- **Attendance & Allowance System (RBAC)** — ระบบ Authorization 3 ระดับพร้อมคำนวณเบี้ยเลี้ยงอัตโนมัติ *(Tech: Next.js · Auth.js · Prisma)*
+- **E-Learning Platform** — Instructor CMS + Student Dashboard *(Tech: Next.js · Prisma · PostgreSQL)*
+- **Line API Integration — Laundry Service** — ระบบแจ้งเตือนสถานะบริการแบบ Real-time *(Tech: Node.js · Line Messaging API)*
 
 ---
 
