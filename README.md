@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Natthaphan Latea (Saen)
+# 👋 Hi, I'm Natthaphan Latea
 
 ### Full-Stack Web Developer · First Class Honors 🎓
 
@@ -8,6 +8,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089303584163)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:nattapanlateh26@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/XAN44)
 
 </div>
 
@@ -15,13 +16,44 @@
 
 ## 🚀 About Me
 
-นักพัฒนา Full-Stack จบใหม่ด้วย **เกียรตินิยมอันดับ 1 (GPAX 3.63)** จากคณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยอีสเทิร์นเอเชีย
+นักพัฒนา Full-Stack จบใหม่ด้วย **เกียรตินิยมอันดับ 1 (GPAX 3.63/4.00)** จากคณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยอีสเทิร์นเอเชีย
 
 มีประสบการณ์ฝึกงานจริงและงาน Freelance ที่ได้ลงมือแก้ปัญหาจริงให้กับธุรกิจ ไม่ว่าจะเป็น:
 - 🔐 ระบบ **RBAC** ที่ซับซ้อน — จัดการสิทธิ์เข้าถึงแบบหลายระดับ
 - ⚡ **Real-time Systems** ด้วย Socket.io — POS, Smart Calling, Order Tracking
 - 🤖 **Line API Integration** — แจ้งเตือนสถานะบริการอัตโนมัติ
 - 🎓 **E-Learning Platform** — ระบบสอนออนไลน์ครบวงจร
+
+---
+
+## 🌟 Featured Projects
+
+> แก้ลิงก์ `#` ด้านล่างให้เป็น URL repo/demo จริงของแต่ละโปรเจกต์
+
+### 🍽️ Real-time POS System
+Smart Calling System + Real-time Order Tracking ด้วย Socket.io พร้อม Admin Dashboard ครบวงจร
+**Tech:** Next.js · Socket.io · Prisma · PostgreSQL
+[🔗 Repo](#) · [🎬 Demo](#)
+
+### 🌐 Social Media & Event Platform *(Graduation Project)*
+Full-scale Web App: Blogging · Event Creation · Real-time Chat · Social Interactions · Google OAuth
+**Tech:** Next.js · Prisma · Socket.io · Zustand
+[🔗 Repo](#) · [🎬 Demo](#)
+
+### 🕒 Attendance & Allowance System (RBAC)
+ระบบ Authorization 3 ระดับ (พนักงาน/นักศึกษาฝึกงาน/Supervisor) + คำนวณเบี้ยเลี้ยงอัตโนมัติพร้อมแจ้งเตือนผ่าน Nodemailer
+**Tech:** Next.js · Auth.js · Prisma
+[🔗 Repo](#)
+
+### 📚 E-Learning Platform
+Instructor CMS (วิดีโอ, ควิซ) + Student Dashboard ติดตามผลการเรียน
+**Tech:** Next.js · Prisma · PostgreSQL
+[🔗 Repo](#)
+
+### 🧺 Line API Integration — Laundry Service
+เชื่อมต่อ Line Messaging API สร้างระบบแจ้งเตือนสถานะบริการแบบ Real-time
+**Tech:** Node.js · Line Messaging API
+[🔗 Repo](#)
 
 ---
 
